@@ -1,0 +1,28 @@
+server:
+  port: 8080  # El puerto en el que se ejecutará la aplicación
+
+spring:
+  application:
+    name: PokedexApp  # Nombre de la aplicación (opcional)
+
+  datasource:
+    url: jdbc:postgresql://localhost:5432/pokedex_db  # URL de la base de datos
+    username: pokemon  # Usuario de la base de datos
+    password: pokemon  # Contraseña de la base de datos
+    driver-class-name: org.postgresql.Driver  # Driver de PostgreSQL
+
+  jpa:
+    hibernate:
+      ddl-auto: update  # Permite la creación/actualización automática de tablas sin borrar los datos existentes
+    properties:
+      hibernate.dialect: org.hibernate.dialect.PostgreSQLDialect  # Dialecto de Hibernate para PostgreSQL
+    show-sql: true  # Muestra las consultas SQL generadas en la consola para depuración
+    format_sql: true  # Formatea las consultas SQL para mayor legibilidad
+    open-in-view: false  # Evita que Hibernate mantenga abierta la sesión durante el ciclo de vida de la vista
+
+logging:
+  level:
+    root: DEBUG
+    org.springframework.web: DEBUG
+    org.hibernate.SQL: DEBUG
+    org.hibernate.type.descriptor.sql: TRACE

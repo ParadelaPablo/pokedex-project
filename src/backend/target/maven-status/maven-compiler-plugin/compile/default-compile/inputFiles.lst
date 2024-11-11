@@ -1,0 +1,13 @@
+C:\Users\Pablo Paradela\pokedex\src\backend\src\main\java\com\pablo\pokedex\model\Pokemon.java
+C:\Users\Pablo Paradela\pokedex\src\backend\src\main\java\exception\PokemonNotFoundException.java
+C:\Users\Pablo Paradela\pokedex\src\backend\src\main\java\com\pablo\pokedex\model\PokemonSpecies.java
+C:\Users\Pablo Paradela\pokedex\src\backend\src\main\java\com\pablo\pokedex\controller\PokeController.java
+C:\Users\Pablo Paradela\pokedex\src\backend\src\main\java\com\pablo\pokedex\PokedexApplication.java
+C:\Users\Pablo Paradela\pokedex\src\backend\src\main\java\com\pablo\pokedex\model\SearchHistory.java
+C:\Users\Pablo Paradela\pokedex\src\backend\src\main\java\com\pablo\pokedex\config\CorsConfig.java
+C:\Users\Pablo Paradela\pokedex\src\backend\src\main\java\com\pablo\pokedex\service\WebClientConfig.java
+C:\Users\Pablo Paradela\pokedex\src\backend\src\main\java\com\pablo\pokedex\model\PokemonListResponse.java
+C:\Users\Pablo Paradela\pokedex\src\backend\src\main\java\com\pablo\pokedex\repository\PokeRepository.java
+C:\Users\Pablo Paradela\pokedex\src\backend\src\main\java\com\pablo\pokedex\repository\SearchHistoryRepository.java
+C:\Users\Pablo Paradela\pokedex\src\backend\src\main\java\com\pablo\pokedex\service\PokeService.java
+C:\Users\Pablo Paradela\pokedex\src\backend\src\main\java\com\pablo\pokedex\PokemonEntity.java

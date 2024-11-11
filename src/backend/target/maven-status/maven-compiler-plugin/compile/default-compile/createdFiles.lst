@@ -1,0 +1,12 @@
+com\pablo\pokedex\service\PokeService.class
+com\pablo\pokedex\controller\PokeController.class
+com\pablo\pokedex\PokemonEntity.class
+com\pablo\pokedex\repository\SearchHistoryRepository.class
+com\pablo\pokedex\service\WebClientConfig.class
+com\pablo\pokedex\config\CorsConfig.class
+com\pablo\pokedex\config\CorsConfig$1.class
+com\pablo\pokedex\model\Pokemon.class
+com\pablo\pokedex\model\SearchHistory.class
+com\pablo\pokedex\PokedexApplication.class
+com\pablo\pokedex\repository\PokeRepository.class
+exception\PokemonNotFoundException.class
